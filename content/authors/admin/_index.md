@@ -6,8 +6,8 @@ title: ChanYoung Yeo
 name_pronunciation: 
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: 
+last_name: 
 
 # Status emoji
 status:
