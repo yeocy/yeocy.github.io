@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Intergrated Course
+role: M.S.-Ph.D.
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -46,7 +46,7 @@ interests:
 
 education:
 
-  - area: Artificial Intelligence
+  - area: M.S.-Ph.D. Artificial Intelligence
     institution: Kyung Hee University
     date_start: 2025-03-01
     date_end: 
