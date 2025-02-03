@@ -1,6 +1,6 @@
 ---
 # Display name
-title: ChanYoung YEo
+title: ChanYoung Yeo
 
 # Name pronunciation (optional)
 name_pronunciation: 
@@ -20,12 +20,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Intergrated Course
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: AirLab at KHU
+    url: https://airlab.khu.ac.kr/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
